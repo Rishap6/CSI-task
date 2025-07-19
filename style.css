@@ -5,6 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -205,7 +208,7 @@ header {
 .welcome-section {
   width: 80%;
   margin: auto;
-  background: #121212;
+  background: #1b1818;
   padding: 4rem 2rem;
   text-align: center;
   animation: slideIn 1s ease-out forwards;
@@ -271,7 +274,7 @@ header {
   z-index: 2;
 }
 .background{
-  background: #121212;
+  background: #1b1818;
   z-index: -1;
   height: 30rem;
   width: 80%;
