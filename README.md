@@ -7,7 +7,7 @@ This project was designed and developed by me, **Rishikesh Mudaliyar**, as a cle
 
 ## 🖥️ Live Preview
 
-**Coming Soon**
+(https://rishap6.github.io/CSI-task/)
 
 ---
 
